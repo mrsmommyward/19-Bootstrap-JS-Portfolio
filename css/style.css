@@ -1,0 +1,61 @@
+body {
+    background-color: #B9F6F4;
+}
+
+.navbar {
+    flex: right;
+}
+
+.jumbotron {
+    background-color: #B9F6F4;
+}
+
+.lead {
+    padding-top: 150px;
+}
+
+.profileImg {
+    padding-left: 150px;
+}
+
+.welcome {
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.card {
+    border: none;
+    background-color: #B9F6F4;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-img, .card-img-top {
+    border-radius: calc(.25rem - 1px);
+}
+.card-img-top {
+    padding-bottom: 20px;
+}
+
+.display-4, .lead {
+    text-align: center;
+}
+
+p.lead, .connect {
+    text-align: center; 
+    padding-top: 75px; 
+}
+
+p {
+    width: 540px;
+}
+
+.aboutImg {
+    margin-left: 550px;
+    padding-top: 25px;
+}
+
+.blockquote {
+    color: white;
+}
